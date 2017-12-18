@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62ff13c0-695b-480c-99a9-cf0134b3fee8" name="Default" comment="" />
+    <list default="true" id="62ff13c0-695b-480c-99a9-cf0134b3fee8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,10 +72,10 @@
             <state relative-caret-position="-7029">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1513557628011" expanded="true" signature="32890:32932" ph="..." />
-                <marker date="1513557628011" expanded="true" signature="32890:32950" ph="..." />
-                <marker date="1513557628011" expanded="true" signature="32890:32963" ph="..." />
-                <marker date="1513557628011" expanded="true" signature="32890:32978" ph="..." />
+                <marker date="1513557722559" expanded="true" signature="33219:33261" ph="..." />
+                <marker date="1513557722559" expanded="true" signature="33219:33279" ph="..." />
+                <marker date="1513557722559" expanded="true" signature="33219:33292" ph="..." />
+                <marker date="1513557722559" expanded="true" signature="33219:33307" ph="..." />
               </folding>
             </state>
           </provider>
@@ -579,10 +581,10 @@
         <state relative-caret-position="-7029">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1513557628011" expanded="true" signature="32890:32932" ph="..." />
-            <marker date="1513557628011" expanded="true" signature="32890:32950" ph="..." />
-            <marker date="1513557628011" expanded="true" signature="32890:32963" ph="..." />
-            <marker date="1513557628011" expanded="true" signature="32890:32978" ph="..." />
+            <marker date="1513557722559" expanded="true" signature="33219:33261" ph="..." />
+            <marker date="1513557722559" expanded="true" signature="33219:33279" ph="..." />
+            <marker date="1513557722559" expanded="true" signature="33219:33292" ph="..." />
+            <marker date="1513557722559" expanded="true" signature="33219:33307" ph="..." />
           </folding>
         </state>
       </provider>
